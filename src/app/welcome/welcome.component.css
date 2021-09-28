@@ -13,10 +13,11 @@
 
 .layer_one .avatar-container {
     position: relative;
+	
 }
 
 .layer_one .avatar-container .illustration {
-    height: 780px;
+    height: 785px;
     z-index: 1;
     position: relative;
 }
